@@ -100,16 +100,15 @@ Investigating the Relationships
 Team
 
 	•	Ivana Lovera
-	•	
-	•	[Team Member 2]
-	•	[Team Member 3]
+	•	Vaibhavi C Mayya
+ 	•	Jasmine Lam.
 
 Tools and Technologies
 
 	•	SQL
 	•	Python
 	•	Tableau
-  •	Kaggle
+ 	•	Kaggle
 
 Acknowledgments
 
