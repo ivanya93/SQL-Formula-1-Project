@@ -430,7 +430,7 @@ SELECT * FROM normalised_results;
 SELECT * FROM normalised_sprint_results;
 SELECT * FROM normalised_status;
 
--- 2. DEFINING THE PROBLEM WE ARE TRYING TO SOLVE
+
 
 
 
