@@ -1,0 +1,23 @@
+-- 2. Defining the problem we are trying to solve
+
+-- General Info about F1:
+-- 1. What countries compete in F1?
+-- 2. Find the country that has hosted the most F1 races.
+-- 3. Find the circuit that has hosted the most F1 races.
+
+-- About the racer:
+-- 1. Find the AVG/max/min time difference between the 1st, 2nd and 3rd runners.
+-- 2. Find the constructor that has won the most races in F1
+-- 3. Find the driver that has won the most races in F1
+-- 4. Find the fastest stop in history. 
+
+-- Investigate the relationships:
+-- 1. Compare the nationality of the champion and the hosting country
+-- 2. Find the F1 top speed record, its correlated circuit and its constructor
+-- 3. Find the AVG/sum/count of the pole position (q1, q2, q3) and the winners 
+-- 4. Correlation between duration of pit stops and time to win race/reach the end line.
+-- 5. Find the AVG pit stop duration by each constructor in each year
+-- 6. Find the avg pit stop by circuit
+-- 7. The curse of number 13:
+	-- >Does number 13 lost the most races?
+	-- Does number 13 have more accidents/disqualify than other racers? 
